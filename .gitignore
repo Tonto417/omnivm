@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+out/
+cache/
+broadcast/
+dist/
+.next/
+.env
+.env.local
+*.pem
+private_key*
+.DS_Store
